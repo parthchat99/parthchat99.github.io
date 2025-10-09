@@ -1,6 +1,6 @@
 # Parth Chaturvedi
 
-**Senior Software Engineer | Cloud & Backend Specialist | AWS Certified**
+Senior Software Engineer | Cloud & Backend Specialist | AWS Certified
 
 ---
 
@@ -20,7 +20,7 @@ Welcome! I’m Parth, a passionate problem solver building robust, scalable, and
 **Senior Software Engineer**
 - Lead developer on *SIMPLY*, a scalable ML platform for manufacturing data analytics.
 - Enhanced modules for yield insights, batch similarity, and raw material characterization.
-- Stack: Python, Java, AWS (Lambda, Glue, OpenSearch, ECS, SQS, Fargate, DynamoDB), Kafka, Spark, React.js, Node.js, Docker
+- Stack: Python, Node.js, Java, AWS (CDK, Lambda, Glue, OpenSearch, ECS, SQS, Fargate, DynamoDB), Kafka, Spark, React.js, Docker
 
 ### PowerSchool (2021–2024)
 **Software Development Engineer 2**
