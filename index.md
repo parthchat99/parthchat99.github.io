@@ -52,6 +52,8 @@ Welcome! I’m Parth, a passionate problem solver building robust, scalable, and
 ## 🏆 Certifications
 
 - [AWS Certified Developer (Associate)](https://www.credly.com/badges/6a86effb-5346-435c-b3ff-3666b04f02e6/linked_in_profile)
+- [Astronomer: DAG Authoring – Airflow 3]([https://www.credly.com/badges/6a86effb-5346-435c-b3ff-3666b04f02e6/linked_in_profile](https://www.credly.com/badges/891238f9-9385-4abd-90a7-d65c65672562/linked_in_profile))
+- [Astronomer: Airflow 3 Fundamentals]([https://www.credly.com/badges/6a86effb-5346-435c-b3ff-3666b04f02e6/linked_in_profile](https://www.credly.com/badges/891238f9-9385-4abd-90a7-d65c65672562/linked_in_profile)](https://www.credly.com/badges/e80e038a-5b7f-4aec-8b42-f127cc155cfd/linked_in_profile))
 - [Advanced Prompt Engineering Techniques – LinkedIn](https://www.linkedin.com/learning/certificates/efbd06124446623ca4fb281be09d2085033daee7cd2d1769e5b7e97927f7df71)
 - [Prompt Engineering: How to Talk to the AIs – LinkedIn](https://www.linkedin.com/learning/certificates/b16cc837c120f25816da1a806dddd09cdff1e13ba668a1b841a3ae2473d5938e)
 - [Angular Router In Depth](https://ude.my/UC-b1546631-8002-4c48-9725-f5a160adb263)
