@@ -1,87 +1,170 @@
-# Parth Chaturvedi
+Parth Chaturvedi
 
-Senior Software Engineer | Cloud & Backend Specialist | AWS Certified
+Full-Stack Engineer · AI-First · Product-Minded · AWS Certified
 
----
+GitHub · LinkedIn · Email
 
-Welcome! I’m Parth, a passionate problem solver building robust, scalable, and innovative tech solutions. With a strong foundation in full-stack development, cloud architectures, and data-driven products, I thrive on transforming ideas into production-ready platforms.
 
----
+I build autonomous systems and data-driven products that move metrics — from a 60M-user EdTech platform to an AI-powered manufacturing analytics engine. I default to shipping and iterate from production data.
 
-## 🚀 About Me
 
-- 🏢 **Current Role:** Senior Software Engineer at Sanofi
-- 💡 **Core Strengths:** Serverless backend, AWS, Full-Stack Development, Data Engineering, MicroFrontends, Modern JS/TS
-- 📍 **Location:** India
+⚡ Something I Shipped Fast That Moved a Metric
 
-## 💼 Experience
+At Sanofi, I shipped a Batch Similarity Analysis module (part of the SIMPLY ML Platform) within a single sprint — from architecture to production. The module ingests raw manufacturing batch records, computes similarity scores across historical runs using vector-based comparisons on AWS OpenSearch, and surfaces ranked insights to process engineers in a React dashboard.
 
-### Sanofi (2024–Present)
-**Senior Software Engineer**
-- Lead developer on *SIMPLY*, a scalable ML platform for manufacturing data analytics.
-- Enhanced modules for yield insights, batch similarity, and raw material characterization.
-- Stack: Python, Node.js, Java, AWS (CDK, Lambda, Glue, OpenSearch, ECS, SQS, Fargate, DynamoDB), Kafka, Spark, React.js, Docker
+Impact: Reduced manual batch comparison effort by ~70%, enabling engineers to spot anomalies in hours instead of days — directly accelerating yield investigation cycles.
 
-### PowerSchool (2021–2024)
-**Software Development Engineer 2**
-- Full-stack engineer for *MyPowerSchool* (60M+ users, unified EdTech platform).
-- Built serverless backends, data pipelines (Kafka, Hive, Spark), and microfrontends.
-- Led product MVP initiatives for PowerSchool’s flagship offerings.
 
-### Appiyo Technologies & Teamware Solutions (2019–2021)
-**Senior Software Engineer**
-- Architected Yes Bank’s Savings/Salary Account solutions (NodeJS, Angular, MySQL).
-- Developed payroll and account onboarding systems for major finance clients.
 
-### Sastra Technologies (2018–2019)
-**Software Engineer**
-- Built Omni Channel System for ICICI HFC, improving customer onboarding and web UX.
+🤖 AI-Related Work
 
----
+SIMPLY ML Platform — An end-to-end AI analytics platform for Sanofi's pharmaceutical manufacturing:
 
-## 🛠️ Skills
+Autonomous data pipelines: Spark + AWS Glue jobs ingest and transform petabytes of manufacturing sensor data into a reliable context layer for ML models.
 
-- **Backend:** Node.js, TypeScript, Java, Express.js, Django, Python, NestJS
-- **Frontend:** React.js, Angular, HTML5, CSS3, Material-UI, SCSS, Webpack
-- **Cloud:** AWS (CDK, Lambda, DynamoDB, SQS, SNS, Fargate, Glue, OpenSearch, ECS, CloudWatch, IAM)
-- **Data:** MySQL, SQL Server, MongoDB, TypeORM, DynamoDB-OneTable, Kafka, Spark, Hive, AWS Glue
-- **Others:** Docker, Git, MicroFrontends, Jest, Sinon, Splunk, NewRelic, Jupyter
+Vector search: OpenSearch-backed batch similarity engine enabling semantic retrieval across historical production batches.
 
----
+ML-driven insights: Modules for yield prediction, raw material characterization, and batch similarity — each surfaced via a React.js dashboard with real-time observability via CloudWatch + New Relic.
 
-## 🏆 Certifications
+Agent-ready architecture: Event-driven orchestration via SQS + Lambda enables autonomous decisioning workflows triggered by batch completion events.
 
-- [AWS Certified Developer (Associate)](https://www.credly.com/badges/6a86effb-5346-435c-b3ff-3666b04f02e6/linked_in_profile)
-- [Astronomer: DAG Authoring – Airflow 3](https://www.credly.com/badges/891238f9-9385-4abd-90a7-d65c65672562/linked_in_profile)
-- [Astronomer: Airflow 3 Fundamentals](https://www.credly.com/badges/e80e038a-5b7f-4aec-8b42-f127cc155cfd/linked_in_profile)
-- [Advanced Prompt Engineering Techniques – LinkedIn](https://www.linkedin.com/learning/certificates/efbd06124446623ca4fb281be09d2085033daee7cd2d1769e5b7e97927f7df71)
-- [Prompt Engineering: How to Talk to the AIs – LinkedIn](https://www.linkedin.com/learning/certificates/b16cc837c120f25816da1a806dddd09cdff1e13ba668a1b841a3ae2473d5938e)
-- [Angular Router In Depth](https://ude.my/UC-b1546631-8002-4c48-9725-f5a160adb263)
+Certifications demonstrating AI focus:
 
----
+Astronomer: DAG Authoring – Airflow 3 — building robust, production-grade data pipelines
+Advanced Prompt Engineering Techniques — LLM orchestration and agent prompt design
+Prompt Engineering: How to Talk to the AIs
 
-## 🏅 Awards
 
-- **2× MVP – PowerSchool** (Naviance Product, MyPowerSchool Product)
-- **Yes Bank**: Quality Delivery Award, Savings Account Portal
 
----
+🚀 About Me
 
-## 📂 Featured Projects
+Current Role: Senior Software Engineer at Sanofi
 
-- **SIMPLY ML Platform**: Modular machine learning analytics for Sanofi’s manufacturing.
-- **MyPowerSchool Platform**: Unified EdTech portal with serverless backend and microfrontends.
-- **Yes Bank Digital Banking**: Salary/Savings Account onboarding and payroll platforms.
-- **ICICI HFC Omni Channel System**: Customer onboarding web platform.
+Core Strengths: Autonomous agent systems, full-stack TypeScript/Node.js + React, data pipelines (Kafka, Spark, OpenSearch), AWS serverless, product ownership from 0→1
 
----
+What drives me: Turning messy, real-world data into intelligent systems that teams actually love using
 
-## 📫 Get in Touch
+Location: India (open to relocation)
 
-- **GitHub:** [parthchat99](https://github.com/parthchat99)
-- **LinkedIn:** [parthchaturvedi](https://www.linkedin.com/in/parth-chaturvedi-aa149a78/)
-- **Email:** parthchaturvedi99@gmail.com
 
----
 
-*Thanks for visiting! Let’s connect and create something great together.*
+💼 Experience
+
+Sanofi (2024–Present)
+
+Senior Software Engineer
+
+Lead engineer on SIMPLY, an AI-first analytics platform for pharmaceutical manufacturing — owning the full stack from data ingestion to React dashboards.
+
+Designed autonomous event-driven pipelines (SQS → Lambda → Glue → OpenSearch) that transform raw batch records into ML-ready context layers.
+
+Built vector search-backed batch similarity and yield prediction modules with end-to-end observability (CloudWatch, New Relic, structured logging).
+
+Shipped production modules within single sprints, using feature flags for incremental rollouts and measuring impact via custom KPI dashboards.
+
+Stack: TypeScript, Python, Node.js, Java, React.js, AWS (CDK, Lambda, Glue, OpenSearch, ECS, SQS, Fargate, DynamoDB), Kafka, Spark, Docker
+
+
+PowerSchool (2021–2024)
+
+Software Development Engineer 2
+
+Full-stack engineer for MyPowerSchool — a unified EdTech platform serving 60M+ users.
+
+Built serverless TypeScript backends, Kafka/Hive/Spark data pipelines, and React microfrontends.
+
+Led 0→1 MVP product initiatives for PowerSchool's flagship Naviance offering; shipped from concept to production in days and measured engagement via analytics dashboards.
+
+Implemented observability layer (Splunk, New Relic) with alerting, tracing, and SLA dashboards across critical user journeys.
+
+Stack: TypeScript, Node.js, React.js, Kafka, Hive, Spark, AWS, Microfrontends
+
+
+Appiyo Technologies & Teamware Solutions (2019–2021)
+
+Senior Software Engineer
+
+Architected Yes Bank's Savings/Salary Account onboarding platform (Node.js, Angular, MySQL) — serving thousands of daily account activations.
+
+Developed payroll and account management systems for major finance clients with 99.9% uptime SLAs.
+
+
+Sastra Technologies (2018–2019)
+
+Software Engineer
+
+Built Omni Channel System for ICICI HFC, unifying customer onboarding across web and mobile.
+
+🛠️ Skills
+
+Category
+Technologies
+
+
+
+
+
+Languages
+TypeScript, JavaScript, Python, Java
+
+Frontend
+React.js, Next.js, Angular, HTML5, CSS3, Material-UI, SCSS, Webpack, Microfrontends
+
+Backend
+Node.js, NestJS, Express.js, Django, Python
+
+AI / Data
+OpenSearch (vector search), Kafka, Spark, Hive, AWS Glue, LLM prompt engineering, Airflow/DAG orchestration
+
+Cloud (AWS)
+CDK, Lambda, DynamoDB, SQS, SNS, Fargate, Glue, OpenSearch, ECS, CloudWatch, IAM, S3
+
+Databases
+PostgreSQL, MySQL, MongoDB, DynamoDB, TypeORM
+
+Observability
+New Relic, Splunk, CloudWatch, structured logging, distributed tracing
+
+DevOps
+Docker, Git, CI/CD, Jest, Sinon, feature flags
+
+
+🏆 Certifications
+AWS Certified Developer – Associate
+Astronomer: DAG Authoring – Airflow 3
+Astronomer: Airflow 3 Fundamentals
+Advanced Prompt Engineering Techniques – LinkedIn
+Prompt Engineering: How to Talk to the AIs – LinkedIn
+Angular Router In Depth
+
+
+
+🏅 Awards
+
+2× MVP – PowerSchool (Naviance Product, MyPowerSchool Product)
+Yes Bank: Quality Delivery Award, Savings Account Portal
+
+
+
+📂 Featured Projects
+
+SIMPLY ML Platform — AI-first analytics platform for pharmaceutical manufacturing. Autonomous data pipelines, vector search, ML-driven yield and similarity insights, React dashboards.
+
+MyPowerSchool — Unified EdTech portal serving 60M+ users. Serverless TypeScript backend, Kafka pipelines, React microfrontends, full observability.
+
+Yes Bank Digital Banking — Salary/Savings Account onboarding and payroll platforms at scale.
+ICICI HFC Omni Channel System — Unified customer onboarding across web and mobile.
+
+
+📫 Get in Touch
+
+
+GitHub: parthchat99
+
+LinkedIn: parthchaturvedi
+
+Email: parthchaturvedi99@gmail.com
+
+
+
+Thanks for visiting. I'm always up for building systems that matter — let's connect.
